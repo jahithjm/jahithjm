@@ -27,8 +27,8 @@ Passionate about developing software that solves real-world problems. Contributi
 
 ### 📈 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahithjm&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahithjm&layout=compact&theme=dracula)
 
 ---
 
