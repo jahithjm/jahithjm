@@ -1,5 +1,6 @@
 # Hi there 👋, It's me Mohamed Jahith
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahithjm&label=Profile%20views&color=0e75b6&style=flat" alt="jahithjm" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahithjm" alt="jahithjm" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jahithjm" target="blank"><img src="https://img.shields.io/twitter/follow/jahithjm?logo=twitter&style=for-the-badge" alt="jahithjm" /></a> </p>
