@@ -12,7 +12,7 @@ Passionate about developing software that solves real-world problems. Contributi
 ---
 
 ### 🛠️ Languages and Tools:
-
+![Android](https://img.icons8.com/?size=100&id=17836&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)![C#](https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)![PHP](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000)![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)![Laravel](https://img.icons8.com/?size=100&id=UG5EO81XNkPs&format=png&color=000000)![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)![TailwindCSS](https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000)![Flutter](https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000)
 
 ### IDE and Tools I Use:
